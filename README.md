@@ -7,3 +7,6 @@ Introduction of Kunal Kushwaha
 Day-2
 Complete Git and GitHub Tutorial
 Introduction to Programming - Types of Languages, Memory Management
+
+Day-3 
+Flow of Program - Flowcharts & Pseudocode
