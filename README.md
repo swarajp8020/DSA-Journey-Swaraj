@@ -10,3 +10,8 @@ Introduction to Programming - Types of Languages, Memory Management
 
 Day-3 
 Flow of Program - Flowcharts & Pseudocode
+
+Day-4
+Introduction to Programming - Types of Languages, Memory Management
+Introduction to Java - Architecture & Installation
+First Java Program - Input/Output, Debugging and Datatypes
