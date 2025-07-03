@@ -18,3 +18,6 @@ First Java Program - Input/Output, Debugging and Datatypes
 
 Day-5
 Conditionals and Loops + Calculator Program
+
+Day-6
+WAJP of Area Of Triangle & Area Of Circle 
