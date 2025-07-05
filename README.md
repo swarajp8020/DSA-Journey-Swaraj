@@ -21,3 +21,6 @@ Conditionals and Loops + Calculator Program
 
 Day-6
 WAJP of Area Of Triangle & Area Of Circle 
+
+Day-7
+Switch Case
