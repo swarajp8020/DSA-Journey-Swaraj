@@ -24,3 +24,6 @@ WAJP of Area Of Triangle & Area Of Circle
 
 Day-7
 Switch Case
+
+Day-8
+Introduction to Arrays and ArrayList in Java
