@@ -27,3 +27,7 @@ Switch Case
 
 Day-8
 Introduction to Arrays and ArrayList in Java
+
+Day-9
+Practice problems /01-flow-of-program.md
+Q.1,2,3 is done 4 & 5th Logic & approach is pending 
