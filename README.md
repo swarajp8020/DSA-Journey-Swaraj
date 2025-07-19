@@ -47,5 +47,10 @@ Take 2 numbers as inputs and find their HCF and LCM.
 Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
 
 Day -10
+Practice problems
 To calculate Fibonacci Series up to n numbers.
 To find out whether the given String is Palindrome or not.
+
+Day-11
+Practice problems
+To find Armstrong Number between two given number.
