@@ -54,3 +54,6 @@ To find out whether the given String is Palindrome or not.
 Day-11
 Practice problems
 To find Armstrong Number between two given number.
+
+Day-12
+Revising : Introduction to Arrays and ArrayList in Java
