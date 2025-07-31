@@ -68,3 +68,10 @@ Revising : Introduction to Arrays and ArrayList in Java
 Swapping example
 Maximum Number
 Maximum Number in range
+
+Day-14 
+Started
+Video: Linear Search Algorithm - Theory + Code + Questions
+
+Practicing questions
+Java Program to find largest and smallest of three numbers
