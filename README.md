@@ -94,3 +94,6 @@ Marks        Grade
 9. Write a function to find if a number is a palindrome or not. Take number as parameter.
 10. Convert the programs in flow of program, first java, conditionals & loops assignments into functions. 
 11. Write a function that returns all prime numbers between two given numbers.
+
+Day-15
+Linear Search Algorithm - Theory + Code + Questions
